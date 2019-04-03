@@ -12,6 +12,17 @@
      	<div class="container">
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
+           <div class="intern-block border-blue">
+     					<img src="../app/img/OranyeNonsoIMG.jpg" alt="">
+     					  <h6>Oranye Nonso</h6>
+                 <p>Backend Developer and Machine Learning Enthusiast</p>
+                 <ul class="list">
+                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 </ul>
+     					    <a href="#" class="btn-view">view profile</a>
+     				</div>
      				<div class="intern-block border-blue">
      					<img src="../app/img/about-talent.png" alt="">
      					  <h6>Mark Essien</h6>
